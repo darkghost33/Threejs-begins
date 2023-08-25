@@ -1,0 +1,11 @@
+Model Information:
+* title:	TV Man
+* source:	https://sketchfab.com/3d-models/tv-man-1b46e6a6b4324db1b86bc09d6fa04323
+* author:	TheDirector (https://sketchfab.com/The-Director)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TV Man" (https://sketchfab.com/3d-models/tv-man-1b46e6a6b4324db1b86bc09d6fa04323) by TheDirector (https://sketchfab.com/The-Director) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
